@@ -1,12 +1,4 @@
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
-📌 Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:Since you've integrated **SQL**, **Python**, and **Power BI**, your `README.md` should highlight the end-to-end nature of the project. This "full-stack" data approach is exactly what recruiters look for.
-
-Here is a concise, professional template you can use:
-
----
-
-# Customer Trends Data Analysis
+# customer-trends-data-analysis-SQL-Python-PowerBI
 
 ## 📌 Project Overview
 
