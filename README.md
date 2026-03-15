@@ -28,11 +28,3 @@ This project focuses on analyzing customer purchasing behaviors and trends to pr
 * `/Python_Notebooks`: Jupyter notebooks containing EDA and visualizations.
 * `/PowerBI_Reports`: `.pbix` file and dashboard screenshots.
 
----
-
-### Pro-Tips for your README:
-
-* **Add Screenshots:** Replace the placeholders with actual images of your Power BI dashboard to make the profile pop.
-* **Quantify Results:** If this were a real-world scenario, saying "Increased efficiency by 20%" sounds much better than "Made it better."
-
-Would you like me to help you write specific **SQL queries** or **Python code** to include in these folders?
